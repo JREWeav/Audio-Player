@@ -2,7 +2,7 @@
 
 <img src="img/img.png">
 
-Note: Does not include the JUCE library. You will need to download it from [here](https://shop.juce.com/get-juce/download) and add it to the project.
+Note: Does not include the JUCE library. You will need to download it from [here](https://shop.juce.com/get-juce/download) and add it to the project. (Tested with JUCE 7.0.5)
 
 # What is this?
 
